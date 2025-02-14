@@ -35,26 +35,7 @@ This project examines the relationship between **movie popularity, production bu
 - **Popularity scores** – IMDb & TMDb popularity index  
 - **Genres, Studios, and Release Dates**  
 - **People Involved** – Directors, Producers, Screenwriters  
-- **Runtime, Vote Count, and Ratings**  
-
----
-
-## **Three Key Visualizations**
-
-### **Relationship Between Movie Popularity and Budget**  
-**Finding:** High-budget films tend to be **more popular**, but **ROI is often lower**.  
-
-![Popularity vs Budget](LB_P2P.png)  
-
-### **Top 6 Most Prevalent Industry Professionals by Budget Category**  
-**Finding:** Some filmmakers specialize in **low, medium, or high-budget films** and appear frequently in **successful projects**.  
-
-![Top Professionals](MB_P2P.png)  
-
-### **Comparison of ROI and Popularity Across Budget Tiers**  
-**Finding:** **Medium-budget movies** tend to have the **highest ROI**, while **high-budget movies dominate in popularity**.  
-
-![ROI by Budget Category](HB_P2P.png)  
+- **Runtime, Vote Count, and Ratings**   
 
 ---
 
@@ -63,11 +44,10 @@ This project examines the relationship between **movie popularity, production bu
 ### **Key Findings**  
 **High-budget movies** tend to be the **most popular**, but their **ROI is lower**.  
 **Low & mid-budget movies** can be **highly profitable**, despite **lower visibility**.  
-Certain **filmmakers consistently produce high-ROI films**, making them **strong candidates for investment**.  
+**Certain filmmakers consistently produce high-ROI films**, making them **strong candidates for investment**.  
 
 ### **Recommendations**  
-**For studios:** Invest in **lower-budget films** with **strong creative teams** for **higher ROI**.  
-**For producers:** Collaborate with **proven high-ROI filmmakers** to **improve profitability**.  
+**For studios:** Invest in **lower-budget films** with **strong proven producers** for **higher ROI**.  
 **For investors:** Monitor **popular but lower-budget films** to find **hidden financial opportunities**.  
 
 ---
